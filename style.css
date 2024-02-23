@@ -87,7 +87,7 @@ font-family: 'Roboto',sans-serif;
     cursor: pointer;
 }
 .videotop_section{
-    display: flex;
+    display:flex;
     overflow: hidden;
     margin-top: 1rem;
     margin-left: 120px;
@@ -125,7 +125,7 @@ font-family: 'Roboto',sans-serif;
 
 }
 .video{
-    width:250px;
+    width:350px;
     margin-right: 20px;
     margin-bottom: 30px;
 }
