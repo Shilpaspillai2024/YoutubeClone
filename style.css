@@ -83,8 +83,24 @@ font-family: 'Roboto',sans-serif;
 
 }
 .sidebar_category:hover{
-    background-color:lightgrey;
+    background-color:rgb(233, 227, 227);
     cursor: pointer;
+}
+.sidebar_horizontal hr{
+    background-color:rgb(218, 213, 213);
+    border: none;
+    height: 2px;
+
+}
+.sidebar_category span{
+    margin-left: 10px;
+}
+.you_sidebar{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.you_sidebar_list{
+    margin-bottom: 30px;
 }
 .videotop_section{
     display:flex;
